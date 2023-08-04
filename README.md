@@ -7,4 +7,4 @@ We use three approaches to generate the book recommendations - Popularity-Based 
 # The Project
 The data exploration and model development can be found here: https://rawcdn.githack.com/GabrielVesco/Book-Recommender/7841ebcabb18dd4506eea20e9524085896bd9b46/Data-Preparation-and-Model-Development.html
 
-The Shiny app is linked above.
+The code for the R shiny application is linked above.
